@@ -39,7 +39,7 @@ Questo plugin è compatibile con altri plugin di economia per Minecraft, come iC
 
 ## Requisiti
 
-- **Minecraft**: Versione supportata dal plugin.
+- **Minecraft**: Versione supportata dal plugin. (1.16.5)
 - **EssentialsX** (opzionale): Per un'integrazione completa con il sistema di economia.
 - **Java**: Il plugin è sviluppato in Java e richiede l'uso di una versione compatibile di Java per funzionare correttamente.
 
@@ -53,4 +53,4 @@ Distribuito sotto la **MIT License**. Vedi il file [LICENSE](LICENSE) per ulteri
 
 ---
 
-Speriamo che questo plugin arricchisca la tua esperienza di gioco su Minecraft, offrendo un sistema economico robusto e facilmente integrabile nel tuo server. Se hai domande o suggerimenti, non esitare a contattarci!
+Se hai domande o suggerimenti, non esitare a contattarci!
