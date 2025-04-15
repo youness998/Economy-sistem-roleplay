@@ -1,0 +1,44 @@
+
+name: EconomyPlugin
+version: 1.0
+main: com.example.economy.Main
+api-version: 1.16
+description: Sistema economia professionale per server Minecraft
+commands:
+  balance:
+    description: Mostra il tuo saldo
+    aliases: [bal]
+    usage: /<command>
+  pay:
+    description: Invia denaro ad un altro giocatore
+    usage: /<command> <giocatore> <importo>
+  setbalance:
+    description: Imposta il saldo di un giocatore
+    usage: /<command> <giocatore> <importo>
+    permission: economy.admin
+  addmoney:
+    description: Aggiungi denaro al saldo di un giocatore
+    usage: /<command> <giocatore> <importo>
+    permission: economy.admin
+  removemoney:
+    description: Rimuovi denaro dal saldo di un giocatore
+    usage: /<command> <giocatore> <importo>
+    permission: economy.admin
+  eco:
+    description: Gestisci l'economia del server
+    usage: /<command> [give|take|set] <giocatore> <importo>
+    permission: economy.admin
+  withdraw:
+    description: Preleva denaro dal tuo conto
+    usage: /<command> <importo>
+  deposit:
+    description: Deposita denaro nel tuo conto
+    usage: /<command> <importo>
+  money:
+    description: Mostra il tuo saldo
+    aliases: [balance, bal]
+    usage: /<command>
+  economy:
+    description: Mostra informazioni sul sistema economico
+    usage: /<command>
+    permission: economy.admin
