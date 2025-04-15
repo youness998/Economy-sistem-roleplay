@@ -1,4 +1,4 @@
-# Minecraft Economy Plugin
+# Economy sistem
 
 ## Descrizione
 
