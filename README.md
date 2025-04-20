@@ -1,6 +1,9 @@
-[![Download Economy](https://img.shields.io/badge/Download-Locky%20Block%20v1.0-blue?style=flat-square)](https://github.com/youness998/Economy-sistem-roleplay/releases/latest/download/economy-plugin-1.0-SNAPSHOT.jar).
+[![Download Economy](https://img.shields.io/badge/Download-Locky%20Block%20v1.0-blue?style=flat-square)](https://github.com/youness998/Economy-sistem-roleplay/releases/latest/download/economy-plugin-1.0-SNAPSHOT.jar)
 [![Minecraft 1.16.5](https://img.shields.io/badge/Minecraft-1.16.5-green?style=flat-square)](https://www.minecraft.net/)
-
+[![Java 17](https://img.shields.io/badge/Java-17%2B-yellow?style=flat-square)](https://www.oracle.com/java/)
+[![API 1.19](https://img.shields.io/badge/API-1.19-blue?style=flat-square)](https://hub.spigotmc.org/javadocs/bukkit/)
+[![License MIT](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)](LICENSE)
+[![Build Status](https://img.shields.io/badge/Build-Stable-brightgreen?style=flat-square)](https://github.com/youness998/Economy-sistem-roleplay/actions)
 # Economy sistem
 
 ## Descrizione
