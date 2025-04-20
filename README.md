@@ -1,5 +1,5 @@
 [![Download Economy](https://img.shields.io/badge/Download-Locky%20Block%20v1.0-blue?style=flat-square)](https://github.com/youness998/Economy-sistem-roleplay/releases/latest/download/economy-plugin-1.0-SNAPSHOT.jar).
-
+[![Minecraft 1.16.5](https://img.shields.io/badge/Minecraft-1.16.5-green?style=flat-square)](https://www.minecraft.net/)
 
 # Economy sistem
 
