@@ -1,3 +1,6 @@
+[![Download Economy](https://img.shields.io/badge/Download-Locky%20Block%20v1.0-blue?style=flat-square)](https://github.com/youness998/Economy-sistem-roleplay/releases/latest/download/economy-plugin-1.0-SNAPSHOT.jar
+
+
 # Economy sistem
 
 ## Descrizione
